@@ -105,14 +105,14 @@
 
 .texto2 {
   font-size: 3em;
-  font-family: "montserratS";
+  font-family: "montserrat_SemiBold";
   white-space: pre-line;
   text-align: center;
   color: #003b54;
 }
 
 span {
-  font-family: "montserratSemiBold";
+  font-family: "montserrat_ExtraBold";
   font-weight: bold;
 }
 
@@ -179,6 +179,8 @@ span {
   border-bottom-left-radius: 100px;
   margin-left: -40px;
   margin-top: -20px;
+  font-family: "montserrat_ExtraBold";
+
 }
 
 .btn:hover {
@@ -232,7 +234,7 @@ span {
   gap: 10px;
   text-decoration: none;
   color: #003b54;
-  font-family: "montserrat_SemiBold";
+  font-family: "montserrat_ExtraBold";
   align-items: center;
   margin-top: -5px;
 
@@ -418,7 +420,7 @@ span {
   }
 
   .texto4 {
-    font-size: 1em;
+    font-size: 1.3em;
   }
 
   .texto5 {
@@ -430,7 +432,7 @@ span {
   }
 
   .texto7 {
-    font-size: 1em;
+    font-size: 1.3em;
   }
 
   .insta {
